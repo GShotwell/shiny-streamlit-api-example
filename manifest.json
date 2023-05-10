@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.9",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "03702805ab497c0375687c40dc55ab41"
+    },
+    ".gitignore": {
+      "checksum": "3a522e53f84c0ca528ea72ea5c895185"
+    },
+    ".vscode/settings.json": {
+      "checksum": "d55a1f7db8a8141e87c622c8f5f17a58"
+    },
+    "LICENSE": {
+      "checksum": "ea9ea7407e987a397cba4785d584bb6f"
+    },
+    "api/.Rhistory": {
+      "checksum": "043b7e61e91d4a35ae1ecb1d954d44a7"
+    },
+    "api/.Rproj.user/F636B33A/pcs/files-pane.pper": {
+      "checksum": "80b0a03c21f368f3f32d49b11ad62133"
+    },
+    "api/.Rproj.user/F636B33A/pcs/source-pane.pper": {
+      "checksum": "7ceaaae6263f716e7d266231403441fe"
+    },
+    "api/.Rproj.user/F636B33A/pcs/windowlayoutstate.pper": {
+      "checksum": "aa8cf7ed20ba226cf3554eaec1922fac"
+    },
+    "api/.Rproj.user/F636B33A/pcs/workbench-pane.pper": {
+      "checksum": "d8bb5c727d4c45b9a2d82fb9ca261ffe"
+    },
+    "api/.Rproj.user/F636B33A/rmd-outputs": {
+      "checksum": "cc9067c2ee470dc248b14b194209a34e"
+    },
+    "api/.Rproj.user/F636B33A/saved_source_markers": {
+      "checksum": "03848550b5519652cec02c7edb2ca8a4"
+    },
+    "api/.Rproj.user/shared/notebooks/paths": {
+      "checksum": "ef6548d8ba22c66dbe9d9566d23798ee"
+    },
+    "app.py": {
+      "checksum": "f17838bbb1782d5d087ed4b34f8417c8"
+    },
+    "helpers.py": {
+      "checksum": "32d9aff2840a2e8dbfc730a8ee0dd5ee"
+    },
+    "streamlit-app.py": {
+      "checksum": "3ccff29ad8f04ebc7b15062cfebc31c8"
+    }
+  }
+}
